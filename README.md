@@ -1,4 +1,5 @@
-Mi nombre es Vincezo Dallape, este es un proyecto (Portfolio) para el curso que estoy haciendo actualmente fullstack de la utn y aca hay una breve explicacion de lo que trata
+Mi nombre es Vincezo Dallape, este es un proyecto (Portfolio) para el curso que estoy haciendo actualmente fullstack de la utn y aca hay una breve explicacion de lo que trata, yo use REACT y CHAKRA.UI  con los icons de react
+
 
 
 1) de fondo hay una foto mia, arriba estan los accesos directos a diferentes sectores de la pagina y luego abajo en el original en lugar de decir curriculum decia contact me que me llevaba al mismo lugar que el boton de arriba, por lo que decidi cambiarlo y poner mi curriculum
