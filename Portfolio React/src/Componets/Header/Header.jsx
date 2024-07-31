@@ -123,7 +123,7 @@ const Header = () => {
             <Flex direction="row" align="center" justify="center" wrap="wrap" gap={{ base: "10px", sm: "15px" }}>
               <IconButton
                 as="a"
-                href="https://github.com/vichendallape"
+                href="https://github.com/vichen12"
                 target="_blank"
                 aria-label="GitHub"
                 icon={<FaGithub />}
@@ -134,7 +134,7 @@ const Header = () => {
               />
               <IconButton
                 as="a"
-                href="https://twitter.com/vichendallape"
+                href="https://twitter.com/vichendalla"
                 target="_blank"
                 aria-label="Twitter"
                 icon={<FaTwitter />}
@@ -145,7 +145,7 @@ const Header = () => {
               />
               <IconButton
                 as="a"
-                href="https://linkedin.com/in/vichendallape"
+                href="https://www.linkedin.com/in/vincenzo-dallape-50a426304/"
                 target="_blank"
                 aria-label="LinkedIn"
                 icon={<FaLinkedin />}
@@ -156,7 +156,7 @@ const Header = () => {
               />
               <IconButton
                 as="a"
-                href="https://wa.me/54123456789"
+                href="https://api.whatsapp.com/send?phone=542612071048&text=Hola%20Vincenzo,%0D%0A%0D%0A Te%20escribo%20por%20tu%20portfolio.%20El%20motivo%20del%20mensaje%20es:%20[escribe%20aquí%20el%20motivo%20del%20mensaje].%0D%0A%0D%0ASaludos,%0D%0A[tu%20nombre]"
                 target="_blank"
                 aria-label="WhatsApp"
                 bg="none"
@@ -251,7 +251,7 @@ const Header = () => {
         />
         <IconButton
           as="a"
-          href="https://api.whatsapp.com/send?phone=542612071048"
+          href="https://api.whatsapp.com/send?phone=542612071048&text=Hola%20Vincenzo,%0D%0A%0D%0A Te%20escribo%20por%20tu%20portfolio.%20El%20motivo%20del%20mensaje%20es:%20[escribe%20aquí%20el%20motivo%20del%20mensaje].%0D%0A%0D%0ASaludos,%0D%0A[tu%20nombre]"
           target="_blank"
           aria-label="WhatsApp"
           bg="none"

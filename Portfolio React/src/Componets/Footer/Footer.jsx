@@ -47,7 +47,7 @@ const Footer = () => {
             >
               <Text fontSize="xl" mb="3">
                 <Link
-                  href="mailto:vichendallape@gmail.com"
+                  href="https://mail.google.com/mail/?view=cm&fs=1&to=vichendallape@gmail.com&su=Contacto%20por%20tu%20portfolio&body=Hola%20Vincenzo,%0D%0A%0D%0ATe%20escribo%20por%20tu%20portfolio.%20Motivo%20del%20correo:%20[escribe%20aquí%20el%20motivo%20del%20correo].%0D%0A%0D%0ASaludos,%0D%0A[tu%20nombre]"
                   isExternal
                   _hover={{ color: "#c49f31", textDecoration: "none" }}
                 >
